@@ -3,11 +3,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 120 120" style="enable-background:new 0 0 120 120;" xml:space="preserve">
 <style type="text/css">
-	.icon-25-0{fill:none;stroke:#BDC5D1;}
-	.icon-25-1{fill:#BDC5D1;}
+	.icon-25-0{fill:none;stroke:#A08C77;}
+	.icon-25-1{fill:#A08C77;}
 	.icon-25-2{fill:#FFFFFF;}
-	.icon-25-3{fill:none;stroke:#377DFF;}
-	.icon-25-4{fill:#377DFF;stroke:#377DFF;}
+	.icon-25-3{fill:none;stroke:#A08C77;}
+	.icon-25-4{fill:#A08C77;stroke:#A08C77;}
 </style>
 <line class="icon-25-0 fill-none stroke-gray-400" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="43" y1="22" x2="43" y2="22"/>
 <ellipse transform="matrix(1.280544e-02 -0.9999 0.9999 1.280544e-02 -4.6111 134.7994)" class="icon-25-1 fill-gray-400" opacity=".5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="66" cy="69.7" rx="36.7" ry="36.7"/>
